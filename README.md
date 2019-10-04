@@ -26,7 +26,7 @@ Here are some questions to consider:
 ## Deliverables
 
 **`Manager`**
-  * `Manager#name`
+  * `Manager#name` :happy
     * returns a `String` that is the manager's name
   * `Manager#department`
     * returns a `String` that is the department that the manager oversees
